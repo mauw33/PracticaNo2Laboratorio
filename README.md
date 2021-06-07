@@ -1,6 +1,6 @@
 InformeLaboratorioNo2
 ==========================
-# PRÁCTICA No. 1 ANÁLISIS DE MALLAS
+# PRÁCTICA No. 2 ANÁLISIS DE MALLAS
 1. OBJETIVOS
 * 1.1 OBJETIVO GENERAL
 
@@ -40,16 +40,21 @@ El uso de la simulación por ordenador es una herramienta imprescindible hoy en 
 5. PROCEDIMIENTO
 
 ### 5.1. Implemente el circuito que se presenta en la figura 2.1
-![Screenshot](LaboratorioNo1/imagen1.jpg)
+![Screenshot](DEBER3Y4/1.jpg)
 
 ### 5.2 Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1
- 
+![Screenshot](DEBER3Y4/2.jpg)
+![Screenshot](DEBER3Y4/3.jpg)
+![Screenshot](DEBER3Y4/4.jpg)
  
 ### 5.3 Simule en el sotfware Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1
  
- 
 ### 5.4 Compare los valores de la tabla 2.1 y realice sus conclusiones
- 
+
+![Screenshot](DEBER3Y4/5.jpg)
+![Screenshot](DEBER3Y4/6.jpg)
+
+Obtenemos que tanto los valores realizados mediante los calculos de los valores de las corrientes de las 3 mallas se asemejan a los obtenidos con el sotfware Multisim, con una leve diferencia en sus decimales, eso nos da a entender que cada valor se encuentra correctamente y se implemento de manera adecuada las LVK.
 
 6. VIDEO
 
