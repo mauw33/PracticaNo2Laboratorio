@@ -58,6 +58,8 @@ Obtenemos que tanto los valores realizados mediante los calculos de los valores 
 
 6. VIDEO
 
+https://youtu.be/6lvzbYOQ6Yg
+
 
 7. CONCLUSIONES
 
